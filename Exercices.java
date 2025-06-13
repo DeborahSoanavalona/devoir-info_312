@@ -45,5 +45,9 @@ public class Exercices{
 		/* parité */
 		System.out.println((c % 2 == 0)? c + " est un nombre pair" :c +  " est impair");
 		System.out.println((c % 3 == 0)? c + " est divisible par 3": c + " est non divisible par 3");
+
+
+		//EXERCICE 6
+		
 	};
 }
